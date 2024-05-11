@@ -17,3 +17,20 @@ h1 {
     text-align: center; 
     font-style: italic;
 }
+p {
+    font-family: 'Josefin Sans';
+    font-size: 28px;
+    text-align: center;
+}
+h2, h3 {
+    font-family: 'Bebas Neue', sans-serif; 
+    font-size: 40px; 
+    text-align: center; 
+    font-style: bold;
+}
+h4 {
+    font-family: 'Bebas Neue', sans-serif; 
+    font-size: 32px; 
+    text-align: center; 
+    font-style: italic;
+}
