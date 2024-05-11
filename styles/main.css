@@ -1,3 +1,7 @@
-body {
+.body {
     background-color: pink;
   }
+.IMG_1986.JPG{
+    max-width: 100%;
+    height: auto;
+}
