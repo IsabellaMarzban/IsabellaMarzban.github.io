@@ -1,45 +1,18 @@
 body {
     background-color: pink;
   }
-  img {
+img {
     max-width: 100%; 
     width: 80%; 
     height: auto; 
   }
-  main {
+main {
     width: 80%; 
     margin: 0 auto;
   }
-  .carousel {
-    position: relative;
-    max-width: 100%;
-    overflow: hidden;
-  }
-  
-  .carousel-inner {
-    display: flex;
-    transition: transform 0.5s ease;
-  }
-  
-  .carousel-inner img {
-    width: 100%; 
-    height: auto; 
-  }
-  .prev, .next {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    color: white;
-    border: none;
-    cursor: pointer;
-    padding: 10px;
-    z-index: 1;
-  }
-  
-  .prev {
-    left: 0;
-  }
-  
-  .next {
-    right: 0;
-  }
+h1 {
+    font-family: 'Bebas Neue', sans-serif; 
+    font-size: 60px; 
+    text-align: center; 
+    font-style: italic;
+}
