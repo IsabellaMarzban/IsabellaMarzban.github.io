@@ -4,4 +4,8 @@
 .IMG_1986.JPG{
     max-width: 100%;
     height: auto;
-}
+  }
+  main {
+    width: 80%; 
+    margin: 0 auto;
+  }
