@@ -32,7 +32,8 @@ h1 {
     font-style: italic;
 }
 p:first-of-type {
-    font-family: Dancing Script;
+    font-family: 'Dancing Script';
+    font-weight: bold;
     font-size: 28px;
     text-align: center;
 }
