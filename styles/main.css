@@ -36,6 +36,7 @@ p:first-of-type {
     font-weight: bold;
     font-size: 28px;
     text-align: center;
+    font-style: italic;
 }
 p {
     font-family: 'Josefin Sans';
